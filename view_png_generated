@@ -1,0 +1,3 @@
+# line to run in windows explorer to view png images generated, after running all python files in cmd prompt.
+
+ \\wsl$\Ubuntu\home\raga\viral-proteome\code
